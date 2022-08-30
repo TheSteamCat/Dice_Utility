@@ -1,8 +1,7 @@
-#written by Luci, aka Seamoss, using Python 3.10.4 and Pygame 2.1.2, in VSCode.
-#I AM OZYMANDIAS, KING OF KINGS. LOOK UPON MY WORKS, YE MIGHTY, AND DESPAIR.
 import pygame
 import random as r
-
+#written by Luci, aka Seamoss, using Python 3.10.4 and Pygame 2.1.2, in VSCode.
+#I AM OZYMANDIAS, KING OF KINGS. LOOK UPON MY WORKS, YE MIGHTY, AND DESPAIR.
 
 
 
@@ -10,6 +9,7 @@ import random as r
 #If you are reading this then I have made the mistake of publishing this code. 
 #There is enough spaghetti here to change someone's DNA to forcibly make them italian. You have been warned.
 #I will attempt to label things properly but do not expect full documentation or even a bare modicum of professionalism.
+
 
 
 #all of this is just setting up stuff my lazy ass can use elsewhere
